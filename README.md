@@ -214,14 +214,14 @@ p.note { display: none; }
 <a href="20250209_037.JPG" target="_blank"><img src="20250209_037.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">蓮のお花もすっかりおやすみ</span></h2>
-<a href="20250209_038.JPG" target="_blank"><img src="20250209_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250209_038.jpeg" target="_blank"><img src="20250209_038.jpeg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">晩御飯は健康的にこんな感じ</span></h2>
-<a href="20250209_039.JPG" target="_blank"><img src="20250209_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250209_039.jpeg" target="_blank"><img src="20250209_039.jpeg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">夕焼け空は、雲が多めでオレンジ色でした</span></h2>
-<a href="20250209_040.JPG" target="_blank"><img src="20250209_040.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250209_041.JPG" target="_blank"><img src="20250209_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250209_040.jpeg" target="_blank"><img src="20250209_040.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="20250209_041.jpeg" target="_blank"><img src="20250209_041.jpeg" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 <h2><span class="yellow">今日のBGMは Mellow Tunes</span></h2>
