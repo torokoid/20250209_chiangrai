@@ -145,7 +145,7 @@ p.note { display: none; }
 <h2><span class="yellow">彩雲は見えなかったけど、今日も見事なお日様の光</span></h2>
 <a href="20250209_007.JPG" target="_blank"><img src="20250209_007.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">同じ壺の蓮が白と紫で咲き分けました</span></h2>
+<h2><span class="yellow">同じ鉢の蓮が白と紫で咲き分けました</span></h2>
 <a href="20250209_008.JPG" target="_blank"><img src="20250209_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250209_009.JPG" target="_blank"><img src="20250209_009.JPG" alt="サンプル画像" width="900" /></a>
     
