@@ -138,7 +138,7 @@ p.note { display: none; }
 <a href="20250209_003.JPG" target="_blank"><img src="20250209_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250209_004.JPG" target="_blank"><img src="20250209_004.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">雲の隙間からお日様が顔を出すと、周囲に彩雲が見えるはず</span></h2>
+<h2><span class="yellow">雲の隙間からお日様が顔を出すと、周囲に彩雲が見えるはずですが残念</span></h2>
 <a href="20250209_006.JPG" target="_blank"><img src="20250209_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250209_005.JPG" target="_blank"><img src="20250209_005.JPG" alt="サンプル画像" width="900" /></a>
     
