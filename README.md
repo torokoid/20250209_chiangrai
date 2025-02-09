@@ -188,7 +188,7 @@ p.note { display: none; }
 <a href="20250209_025.JPG" target="_blank"><img src="20250209_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250209_026.JPG" target="_blank"><img src="20250209_026.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">良く見るとこちらのお宅の庭の花が綺麗に咲いています</span></h2>
+<h2><span class="yellow">良く見るとこちらのお宅、庭のお花が綺麗に咲いています</span></h2>
 <a href="20250209_027.JPG" target="_blank"><img src="20250209_027.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">先日からの盛り土と整地が終わったようです</span></h2>
